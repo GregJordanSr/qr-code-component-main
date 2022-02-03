@@ -3,8 +3,10 @@ body {
     background: #aacdee;
 }
 main {
-    display: flex;
-    justify-content: center;
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center; */
+    display: grid;
     
 }
 .section {
